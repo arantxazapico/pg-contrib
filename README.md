@@ -18,16 +18,16 @@ I worked as a cryptography researcher at the Ethereum Foundation from April 2023
 - zkEVM soundness and security
     * [Talk] [zkEVM Soundness](https://www.youtube.com/watch?v=sKXGt5X6Vm8)
     * [Blog post] [zkEVM Security Sprint: February Update](https://zkevm.ethereum.foundation/blog/cryptography-research-update)
-    * [Blog post][Lookups on zkVMs](https://notes.ethereum.org/@5OzPHg-eTIGneNi3i6jvbw/HyMeKbnt-e)
-    * [Lookup soundness integration in Soundcalc](https://github.com/ethereum/soundcalc)
+    * [Blog post] [Lookups on zkVMs](https://notes.ethereum.org/@5OzPHg-eTIGneNi3i6jvbw/HyMeKbnt-e)
+    * [Code] [Lookup soundness integration in Soundcalc](https://github.com/ethereum/soundcalc)
 
-- Folding and Accumulation Schemes
+- Folding and accumulation schemes
     * [Paper] [KZH-Fold: Accountable Voting from Sublinear Accumulation](https://eprint.iacr.org/2025/144)
     * [Paper] [IVC in the Open-and-sign Random Oracle Model](https://eprint.iacr.org/2025/1663.pdf)
 
 - Cryptography for networking
     * [EthResearch post] [Linearly-homomorphic signatures for RLNC](https://ethresear.ch/t/linearly-homomorphic-signatures-for-rlnc/24072)
 
-- Encrypted Mempools
+- Encrypted mempools
     * [EthResearch post] [Accountability for Encrypted Mempools](https://ethresear.ch/t/accountability-for-encrypted-mempools/26123)
    
