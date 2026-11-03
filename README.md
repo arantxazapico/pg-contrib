@@ -32,3 +32,7 @@ I work as a cryptography researcher at the Ethereum Foundation.
 
 - Cryptography for networking
     * [EthResearch post] [Linearly-homomorphic signatures for RLNC](https://ethresear.ch/t/linearly-homomorphic-signatures-for-rlnc/24072)
+
+- Encrypted Mempools
+    * [EthResearch post] [Accountability for Encrypted Mempools]([https://ethresear.ch/t/accountability-for-encrypted-mempools/26123])
+   
