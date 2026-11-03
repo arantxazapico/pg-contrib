@@ -1,12 +1,6 @@
 # Contributions
 
-I work as a cryptography researcher at the Ethereum Foundation.
-
-## Currently Working on
-
-- zkVM security Sprint
-- zkVM knowledge-soundness proof
-- Post-quantum alternatives for DAS
+I worked as a cryptography researcher at the Ethereum Foundation from April 2023 to July 2026. This is a summary of my main research contributions there.
 
 ## Past Work
 
@@ -18,8 +12,8 @@ I work as a cryptography researcher at the Ethereum Foundation.
     * [Talk] [Why You Should Care About Polynomials](https://www.youtube.com/watch?v=YdXcRY9A9HI)
 
 - Data availability sampling
-    * [Paper] [PeerDAS Documentation and Security Analysis](https://eprint.iacr.org/2024/1362.pdf)
-    * [Paper] [Improved PeerDAS Security Analysis](https://eprint.iacr.org/2025/1683.pdf)
+    * [Paper] [A documentation of Ethereum’s PeerDAS](https://eprint.iacr.org/2024/1362.pdf)
+    * [Paper] [Proving the security of PeerDAS without the AGM](https://eprint.iacr.org/2025/1683.pdf)
 
 - zkEVM soundness and security
     * [Talk] [zkEVM Soundness](https://www.youtube.com/watch?v=sKXGt5X6Vm8)
