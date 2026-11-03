@@ -13,7 +13,7 @@ I work as a cryptography researcher at the Ethereum Foundation.
 - Lookup arguments and SNARKs
     * [Paper] [Caulk: Lookup Arguments in Sublinear Time](https://eprint.iacr.org/2022/621)
     * [Paper] [Baloo: Algebraic Lookup Arguments](https://eprint.iacr.org/2022/1565)
-    * [Paper] [SAK: Sparse Arguments of Knowledge, from Sparse Lookup Arguments]([https://eprint.iacr.org/2026/2143.pdf])
+    * [Paper] [SAK: Sparse Arguments of Knowledge, from Sparse Lookup Arguments](https://eprint.iacr.org/2026/2143.pdf)
     * [Talk] [A Road Map for Lookup Tables](https://www.youtube.com/watch?v=mqoOBMa4zRo)
     * [Talk] [Why You Should Care About Polynomials](https://www.youtube.com/watch?v=YdXcRY9A9HI)
 
@@ -35,5 +35,5 @@ I work as a cryptography researcher at the Ethereum Foundation.
     * [EthResearch post] [Linearly-homomorphic signatures for RLNC](https://ethresear.ch/t/linearly-homomorphic-signatures-for-rlnc/24072)
 
 - Encrypted Mempools
-    * [EthResearch post] [Accountability for Encrypted Mempools]([https://ethresear.ch/t/accountability-for-encrypted-mempools/26123])
+    * [EthResearch post] [Accountability for Encrypted Mempools](https://ethresear.ch/t/accountability-for-encrypted-mempools/26123)
    
